@@ -1,0 +1,13 @@
+-Power info
+1. power-ball - will be able to break unbreakable bricks as well
+2. up - decrease gravity scale :: less gravity effect
+3. down - increase gravity scale :: more gravity effect
+4. forward - increase time scale :: fast forward mode
+5. backward - decrease time scale :: slow motion mode
+6. stop - danger :: game over
+7. strech - increase paddle size
+8. shrink - decrease paddle size
+9. rocket - guns available :: on click fire
+10. shield - can save from game over on lose collider
+11. plus - multiple balls
+12. death brcik - game over
